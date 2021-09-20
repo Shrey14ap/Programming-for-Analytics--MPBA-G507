@@ -412,3 +412,6 @@ Content
 References:
 1.) https://www.youtube.com/watch?v=uiA3znJb4KM&list=PL9HYL-VRX0oTZhAhlLb8r6DI04KY46RJW&index=12
 2.) https://github.com/sol-eng/
+```{r}
+data(cars)
+```
